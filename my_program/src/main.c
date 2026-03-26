@@ -1,4 +1,4 @@
-#include "my_lib.h";
+#include "my_lib.h"
 
 int main() {
     print_hello_message();
